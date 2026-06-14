@@ -1,6 +1,0 @@
-{
-  "name": "Sikh Hate Tracker",
-  "description": "Worldwide tracking of Sikh hate incidents, user reporting portal, official Bulletins, and Panth Prakash Magazine downloads.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
